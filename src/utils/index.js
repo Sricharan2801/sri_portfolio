@@ -94,43 +94,43 @@ export const myProjects = [
       },
     ],
   },
-  // {
-  //   title: 'LiveDoc - Real-Time Google Docs Clone',
-  //   desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
-  //   subdesc:
-  //     'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-  //   href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
-  //   texture: '/textures/project/project2.mp4',
-  //   logo: '/assets/project-logo2.png',
-  //   logoStyle: {
-  //     backgroundColor: '#13202F',
-  //     border: '0.2px solid #17293E',
-  //     boxShadow: '0px 0px 60px 0px #2F6DB54D',
-  //   },
-  //   spotlight: '/assets/spotlight2.png',
-  //   tags: [
-  //     {
-  //       id: 1,
-  //       name: 'React.js',
-  //       path: '/assets/react.svg',
-  //     },
-  //     {
-  //       id: 2,
-  //       name: 'TailwindCSS',
-  //       path: 'assets/tailwindcss.png',
-  //     },
-  //     {
-  //       id: 3,
-  //       name: 'TypeScript',
-  //       path: '/assets/typescript.png',
-  //     },
-  //     {
-  //       id: 4,
-  //       name: 'Framer Motion',
-  //       path: '/assets/framer.png',
-  //     },
-  //   ],
-  // },
+  {
+    title: 'Task Manager',
+    desc: 'Task Manager is an intuitive online application designed to streamline task organization and enhance productivity. Users can easily register and log in to create tasks, prioritizing them as high, low, or moderate. The app features a dynamic workflow, allowing users to move tasks between categories such as To Do, Backlog, In Progress, and Done.',
+    subdesc:
+      'Built with React.js, Node.js, Express, and MongoDB, Task Manager offers a responsive user interface that simplifies task management. With real-time updates, users can monitor their total task count and track the distribution of tasks by priority, making it an essential tool for efficient project management and personal productivity.',
+    href: 'https://task-manager-front-end-eta.vercel.app/',
+    texture: '/textures/project/project2.mp4',
+    logo: '/assets/TM.png',
+    logoStyle: {
+      backgroundColor: '#13202F',
+      border: '0.2px solid #17293E',
+      boxShadow: '0px 0px 60px 0px #2F6DB54D',
+    },
+    spotlight: '/assets/spotlight1.png',
+    tags: [
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/react.svg',
+      },
+      {
+        id: 2,
+        name: 'TailwindCSS',
+        path: 'assets/node.png',
+      },
+      {
+        id: 3,
+        name: 'TypeScript',
+        path: '/assets/express.webp',
+      },
+      {
+        id: 4,
+        name: 'Framer Motion',
+        path: '/assets/mongoDB.webp',
+      },
+    ],
+  },
   // {
   //   title: 'CarePulse - Health Management System',
   //   desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
