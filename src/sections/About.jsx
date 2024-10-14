@@ -94,7 +94,7 @@ const About = () => {
                             <div className='copy-container' onClick={handleCopy}>
                                 <img src={hasCopied ? 'assets/tick.svg' : 'assets/copy.svg'} alt="copy" />
                                 <p className='lg:text-xl md:text-xl font-medium text-gray_gradient' text-white>
-                                    sricharandasadepu@gmailcom
+                                    sricharandasadepu@gmail.com
                                 </p>
                             </div>
                         </div>
