@@ -131,82 +131,73 @@ export const myProjects = [
       },
     ],
   },
-  // {
-  //   title: 'CarePulse - Health Management System',
-  //   desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
-  //   subdesc:
-  //     'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-  //   href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
-  //   texture: '/textures/project/project3.mp4',
-  //   logo: '/assets/project-logo3.png',
-  //   logoStyle: {
-  //     backgroundColor: '#60f5a1',
-  //     background:
-  //       'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
-  //     border: '0.2px solid rgba(208, 213, 221, 1)',
-  //     boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
-  //   },
-  //   spotlight: '/assets/spotlight3.png',
-  //   tags: [
-  //     {
-  //       id: 1,
-  //       name: 'React.js',
-  //       path: '/assets/react.svg',
-  //     },
-  //     {
-  //       id: 2,
-  //       name: 'TailwindCSS',
-  //       path: 'assets/tailwindcss.png',
-  //     },
-  //     {
-  //       id: 3,
-  //       name: 'TypeScript',
-  //       path: '/assets/typescript.png',
-  //     },
-  //     {
-  //       id: 4,
-  //       name: 'Framer Motion',
-  //       path: '/assets/framer.png',
-  //     },
-  //   ],
-  // },
-  // {
-  //   title: 'Horizon - Online Banking Platform',
-  //   desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
-  //   subdesc:
-  //     'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-  //   href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
-  //   texture: '/textures/project/project4.mp4',
-  //   logo: '/assets/project-logo4.png',
-  //   logoStyle: {
-  //     backgroundColor: '#0E1F38',
-  //     border: '0.2px solid #0E2D58',
-  //     boxShadow: '0px 0px 60px 0px #2F67B64D',
-  //   },
-  //   spotlight: '/assets/spotlight4.png',
-  //   tags: [
-  //     {
-  //       id: 1,
-  //       name: 'React.js',
-  //       path: '/assets/react.svg',
-  //     },
-  //     {
-  //       id: 2,
-  //       name: 'TailwindCSS',
-  //       path: 'assets/tailwindcss.png',
-  //     },
-  //     {
-  //       id: 3,
-  //       name: 'TypeScript',
-  //       path: '/assets/typescript.png',
-  //     },
-  //     {
-  //       id: 4,
-  //       name: 'Framer Motion',
-  //       path: '/assets/framer.png',
-  //     },
-  //   ],
-  // },
+  {
+    title: 'Nike Clone',
+    desc: 'Nike Clone is an innovative static webpage designed to redefine the online shopping experience for sports enthusiasts. Showcasing a diverse range of athletic footwear. The website offers a seamless user experience, with intuitive navigation and intuitive features.',
+    subdesc:
+      'Developed using React.js and Tailwind CSS.',
+    href: 'https://nike-clone-eight-tawny.vercel.app/#contact-us',
+    texture: '/textures/project/project3.mp4',
+    logo: '/assets/Nike.ico',
+    logoStyle: {
+      backgroundColor: '#60f5a1',
+      background:
+        'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+      border: '0.2px solid rgba(208, 213, 221, 1)',
+      boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+    },
+    spotlight: '/assets/spotlight1.png',
+    tags: [
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/react.svg',
+      },
+      {
+        id: 2,
+        name: 'TailwindCSS',
+        path: 'assets/tailwindcss.png',
+      },
+      
+    ],
+  },
+  {
+    title: 'Horizon - Online Banking Platform',
+    desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+    subdesc:
+      'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
+    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    texture: '/textures/project/project4.mp4',
+    logo: '/assets/project-logo4.png',
+    logoStyle: {
+      backgroundColor: '#0E1F38',
+      border: '0.2px solid #0E2D58',
+      boxShadow: '0px 0px 60px 0px #2F67B64D',
+    },
+    spotlight: '/assets/spotlight4.png',
+    tags: [
+      {
+        id: 1,
+        name: 'React.js',
+        path: '/assets/react.svg',
+      },
+      {
+        id: 2,
+        name: 'TailwindCSS',
+        path: 'assets/tailwindcss.png',
+      },
+      {
+        id: 3,
+        name: 'TypeScript',
+        path: '/assets/typescript.png',
+      },
+      {
+        id: 4,
+        name: 'Framer Motion',
+        path: '/assets/framer.png',
+      },
+    ],
+  },
   // {
   //   title: 'Imaginify - AI Photo Manipulation App',
   //   desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
